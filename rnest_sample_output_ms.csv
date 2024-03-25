@@ -1,0 +1,11 @@
+name,age,home_town
+"{'firstname': 'John', 'lastname': 'Doe'}",25,London
+"{'firstname': 'Jane', 'lastname': 'Doe'}",22,New York
+"{'firstname': 'Jean', 'lastname': 'Dupont'}",30,Paris
+"{'firstname': 'Max', 'lastname': 'Mustermann'}",28,Berlin
+"{'firstname': 'Otto', 'lastname': 'Normalverbraucher'}",35,Hamburg
+"{'firstname': 'Jón', 'lastname': 'Jónsson'}",40,Rejkjavik
+"{'firstname': 'Numerius', 'lastname': 'Negidius'}",12,Rome
+"{'firstname': 'Anna', 'lastname': 'Kowalska'}",50,Warsaw
+"{'firstname': 'Vardenis', 'lastname': 'Pavardenis'}",26,Vilnius
+"{'firstname': 'Jens', 'lastname': 'Jensen'}",34,Copenhagen

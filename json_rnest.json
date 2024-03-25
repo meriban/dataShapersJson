@@ -1,0 +1,82 @@
+[
+  {
+    "name": {
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    "age": 25,
+    "home_town": "London"
+  },
+  {
+    "name": {
+      "firstname": "Jane",
+      "lastname": "Doe"
+    },
+    "age": 22,
+    "home_town": "New York"
+  },
+  {
+    "name": {
+      "firstname": "Jean",
+      "lastname": "Dupont"
+    },
+    "age": 30,
+    "home_town": "Paris"
+  },
+  {
+    "name": {
+      "firstname": "Max",
+      "lastname": "Mustermann"
+    },
+    "age": 28,
+    "home_town": "Berlin"
+  },
+  {
+    "name": {
+      "firstname": "Otto",
+      "lastname": "Normalverbraucher"
+    },
+    "age": 35,
+    "home_town": "Hamburg"
+  },
+  {
+    "name": {
+      "firstname": "Jón",
+      "lastname": "Jónsson"
+    },
+    "age": 40,
+    "home_town": "Rejkjavik"
+  },
+  {
+    "name": {
+      "firstname": "Numerius",
+      "lastname": "Negidius"
+    },
+    "age": 12,
+    "home_town": "Rome"
+  },
+  {
+    "name": {
+      "firstname": "Anna",
+      "lastname": "Kowalska"
+    },
+    "age": 50,
+    "home_town": "Warsaw"
+  },
+  {
+    "name": {
+      "firstname": "Vardenis",
+      "lastname": "Pavardenis"
+    },
+    "age": 26,
+    "home_town": "Vilnius"
+  },
+  {
+    "name": {
+      "firstname": "Jens",
+      "lastname": "Jensen"
+    },
+    "age": 34,
+    "home_town": "Copenhagen"
+  }
+]

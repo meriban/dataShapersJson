@@ -1,0 +1,3218 @@
+{
+  "count": 93615,
+  "pageInformation": {
+    "offset": 0,
+    "size": 10
+  },
+  "items": [
+    {
+      "typeDiscriminator": "ContributionToJournal",
+      "pureId": 13511369,
+      "uuid": "e7cb020b-8737-48f3-8175-6cc0c37a16f2",
+      "createdBy": "root",
+      "createdDate": "2019-01-23T19:30:20Z",
+      "modifiedBy": "root",
+      "modifiedDate": "2024-01-20T21:07:56.719Z",
+      "portalUrl": "https://cris.lse.ac.uk/portal/en/publications/market-exit-through-divestment(e7cb020b-8737-48f3-8175-6cc0c37a16f2).html",
+      "version": "98c8415b5a7aecd226c28e511953fdd3623f584a",
+      "title": {
+        "value": "Market exit through divestment"
+      },
+      "subTitle": {
+        "value": "the effect of accounting bias on competition"
+      },
+      "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+          "en_GB": "Article"
+        }
+      },
+      "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/research",
+        "term": {
+          "en_GB": "Research"
+        }
+      },
+      "peerReview": true,
+      "publicationStatuses": [
+        {
+          "pureId": 13511389,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/inpress",
+            "term": {
+              "en_GB": "Accepted/In press"
+            }
+          },
+          "publicationDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 26
+          }
+        },
+        {
+          "pureId": 13511391,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/epub",
+            "term": {
+              "en_GB": "E-pub ahead of print"
+            }
+          },
+          "publicationDate": {
+            "year": 2016,
+            "month": 11,
+            "day": 8
+          }
+        },
+        {
+          "pureId": 13511392,
+          "current": true,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/published",
+            "term": {
+              "en_GB": "Published"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 1,
+            "day": 1
+          }
+        }
+      ],
+      "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+          "en_GB": "English"
+        }
+      },
+      "contributors": [
+        {
+          "typeDiscriminator": "ExternalContributorAssociation",
+          "pureId": 13511385,
+          "externalOrganizations": [
+            {
+              "systemName": "ExternalOrganization",
+              "uuid": "a80b336a-aced-4b0f-b9a5-9f8cf8b24791"
+            }
+          ],
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Hui",
+            "lastName": "Chen"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "externalPerson": {
+            "systemName": "ExternalPerson",
+            "uuid": "50a150d5-0824-451c-9315-2f81c3086c3f"
+          }
+        },
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511387,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Bjorn",
+            "lastName": "Jorgensen"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "cc8c627a-f80b-4198-8ed5-6d6054e98fe8"
+          }
+        }
+      ],
+      "organizations": [
+        {
+          "systemName": "Organization",
+          "uuid": "1a58ae12-e748-48dd-a154-236fc7782b66"
+        }
+      ],
+      "totalNumberOfContributors": 2,
+      "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "1a58ae12-e748-48dd-a154-236fc7782b66"
+      },
+      "electronicVersions": [
+        {
+          "typeDiscriminator": "FileElectronicVersion",
+          "pureId": 13511372,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/open",
+            "term": {
+              "en_GB": "Open"
+            }
+          },
+          "visibleOnPortalDate": "2019-01-23",
+          "creator": "root",
+          "created": "2019-01-23T19:30:20Z",
+          "title": "Jorgensen_Market exit_2016.pdf",
+          "file": {
+            "pureId": 13511373,
+            "fileId": "Y2UyYWNk",
+            "fileName": "Jorgensen_Market exit_2016.pdf",
+            "mimeType": "application/pdf",
+            "size": 0,
+            "url": "http://cris.lse.ac.uk/ws/api/research-outputs/e7cb020b-8737-48f3-8175-6cc0c37a16f2/files/Y2UyYWNk/Jorgensen_Market%2520exit_2016.pdf"
+          },
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/authorsversion",
+            "term": {
+              "en_GB": "Accepted author manuscript"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "DoiElectronicVersion",
+          "pureId": 13511376,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/closed",
+            "term": {
+              "en_GB": "Closed"
+            }
+          },
+          "doi": "10.1287/mnsc.2016.2578",
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+            "term": {
+              "en_GB": "Final published version"
+            }
+          }
+        }
+      ],
+      "links": [
+        {
+          "pureId": 13511381,
+          "url": "http://pubsonline.informs.org/journal/mnsc",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/officialurl",
+            "term": {
+              "en_GB": "Official URL"
+            }
+          }
+        },
+        {
+          "pureId": 13511382,
+          "url": "http://www.lse.ac.uk/accounting/people/bjorn-jorgensen/home.aspx",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          }
+        }
+      ],
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "ClassificationsKeywordGroup",
+          "pureId": 13511377,
+          "logicalName": "librarianKeywordContainers",
+          "name": {
+            "en_GB": "Library Keywords"
+          },
+          "classifications": [
+            {
+              "uri": "/dk/atira/pure/core/keywords/H/HF/HF5601",
+              "term": {
+                "en_GB": "HF5601 Accounting"
+              }
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 31516800,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords"
+          },
+          "keywords": [
+            {
+              "pureId": 31516802,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "accounting",
+                "economics",
+                "game theory and bargaining theory",
+                "microeconomic behavior"
+              ]
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "FullKeywordGroup",
+          "pureId": 31516803,
+          "logicalName": "/dk/atira/pure/Keyword/OA_Route",
+          "name": {
+            "en_GB": "Route to Open Access"
+          },
+          "keywordContainers": [
+            {
+              "pureId": 31516804,
+              "structuredKeyword": {
+                "uri": "/dk/atira/pure/Keyword/OA_Route/Green",
+                "term": {
+                  "en_GB": "Green"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "bibliographicalNote": {
+        "en_GB": "© 2016 INFORMS"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction"
+        }
+      },
+      "workflow": {
+        "step": "approved",
+        "description": {
+          "en_GB": "Validated"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "researchoutputwizard",
+          "value": "64217"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 15224576,
+          "idSource": "Scopus",
+          "value": "85041399382"
+        }
+      ],
+      "customDefinedFields": {
+        "researchoutput_string_invoice_number": {
+          "typeDiscriminator": "String"
+        },
+        "researchoutput_classification_debit_credit": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_charge_type": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_supplier": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_date_invoice_date": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_date_date_invoice_paid": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_classification_budget": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_type": {
+          "typeDiscriminator": "Classification"
+        }
+      },
+      "pages": "164 - 177",
+      "volume": "64",
+      "journalAssociation": {
+        "pureId": 13511371,
+        "title": {
+          "pureId": 13511364,
+          "title": "Management Science"
+        },
+        "issn": {
+          "pureId": 13511362,
+          "issn": "0025-1909"
+        },
+        "journal": {
+          "systemName": "Journal",
+          "uuid": "f874ab55-5853-412f-b266-6ea9249a94ba"
+        }
+      },
+      "journalNumber": "1",
+      "numberOfPages": 14,
+      "externalOrganizations": [
+        {
+          "systemName": "ExternalOrganization",
+          "uuid": "a80b336a-aced-4b0f-b9a5-9f8cf8b24791"
+        }
+      ],
+      "abstract": {
+        "en_GB": "We analyze the effect of accounting bias on the competition and market structure of an industry. In our model, firms interim accounting reports on investment projects may contain bias introduced by the mandatory accounting system. We find that this bias strictly decreases firm's profits when investors do not have an abandonment option, but different results emerge when we allow the investors to divest in the interim. Specifically, a conservative accounting regime may increase the likelihood of projects being discontinued, inducing some firms to exit from the product market and leaving rivals to capture their market share. A conservative regime can thus soften market competition and result in ex ante higher investment payoff, higher consumer surplus, and higher total social welfare. Since industries often have common reporting standards, we also identify the degrees of industry-wide accounting bias that maximize the expected investor payoffs. Finally, we allow for investors to coordinate their divestment decisions when both firms report unfavorable costs and show an improvement to both firms profits and consumer surplus."
+      },
+      "systemName": "ResearchOutput"
+    },
+    {
+      "typeDiscriminator": "ContributionToJournal",
+      "pureId": 13511370,
+      "uuid": "bbfc1688-0bfb-4719-a3aa-03bfdf8c0599",
+      "createdBy": "root",
+      "createdDate": "2019-01-23T19:30:20Z",
+      "modifiedBy": "root",
+      "modifiedDate": "2024-01-20T21:07:56.775Z",
+      "portalUrl": "https://cris.lse.ac.uk/portal/en/publications/do-heavilyunionized-companies-compensate-their-ceos-less-in-periods-of-financial-distress-evidence-from-canadian-companies-during-the-financial-crisis(bbfc1688-0bfb-4719-a3aa-03bfdf8c0599).html",
+      "version": "e4822635d2b68d844186b00d68eaf7710a731b2e",
+      "title": {
+        "value": "Do heavily-unionized companies compensate their CEOs less in periods of financial distress? Evidence from Canadian companies during the financial crisis."
+      },
+      "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+          "en_GB": "Article"
+        }
+      },
+      "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/research",
+        "term": {
+          "en_GB": "Research"
+        }
+      },
+      "peerReview": true,
+      "publicationStatuses": [
+        {
+          "pureId": 13511397,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/inpress",
+            "term": {
+              "en_GB": "Accepted/In press"
+            }
+          },
+          "publicationDate": {
+            "year": 2017,
+            "month": 2,
+            "day": 24
+          }
+        },
+        {
+          "pureId": 13511398,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/epub",
+            "term": {
+              "en_GB": "E-pub ahead of print"
+            }
+          },
+          "publicationDate": {
+            "year": 2017,
+            "month": 7,
+            "day": 5
+          }
+        },
+        {
+          "pureId": 13511399,
+          "current": true,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/published",
+            "term": {
+              "en_GB": "Published"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 3,
+            "day": 1
+          }
+        }
+      ],
+      "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+          "en_GB": "English"
+        }
+      },
+      "contributors": [
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511396,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Muhammad Umar",
+            "lastName": "Boodoo"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "b77a1ee7-6909-4089-a39d-76bea597465a"
+          }
+        }
+      ],
+      "organizations": [
+        {
+          "systemName": "Organization",
+          "uuid": "b23178e6-485a-4bf2-9745-2859accdd91f"
+        }
+      ],
+      "totalNumberOfContributors": 1,
+      "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "b23178e6-485a-4bf2-9745-2859accdd91f"
+      },
+      "electronicVersions": [
+        {
+          "typeDiscriminator": "FileElectronicVersion",
+          "pureId": 13511375,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/open",
+            "term": {
+              "en_GB": "Open"
+            }
+          },
+          "visibleOnPortalDate": "2019-01-23",
+          "creator": "root",
+          "created": "2019-01-23T19:30:20Z",
+          "title": "Boodoo_Do heavily-unionized companies compensate their_author_2017 LSERO.pdf",
+          "file": {
+            "pureId": 13511378,
+            "fileId": "Y2UyYWQy",
+            "fileName": "Boodoo_Do heavily-unionized companies compensate their_author_2017 LSERO.pdf",
+            "mimeType": "application/pdf",
+            "size": 0,
+            "url": "http://cris.lse.ac.uk/ws/api/research-outputs/bbfc1688-0bfb-4719-a3aa-03bfdf8c0599/files/Y2UyYWQy/Boodoo_Do%2520heavily-unionized%2520companies%2520compensate%2520their_author_2017%2520LSERO.pdf"
+          },
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/authorsversion",
+            "term": {
+              "en_GB": "Accepted author manuscript"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "DoiElectronicVersion",
+          "pureId": 13511380,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/unknown",
+            "term": {
+              "en_GB": "Unknown"
+            }
+          },
+          "doi": "10.1177/0019793917719885",
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+            "term": {
+              "en_GB": "Final published version"
+            }
+          }
+        }
+      ],
+      "links": [
+        {
+          "pureId": 13511394,
+          "url": "http://journals.sagepub.com/home/ilr",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/officialurl",
+            "term": {
+              "en_GB": "Official URL"
+            }
+          }
+        }
+      ],
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "ClassificationsKeywordGroup",
+          "pureId": 13511383,
+          "logicalName": "librarianKeywordContainers",
+          "name": {
+            "en_GB": "Library Keywords"
+          },
+          "classifications": [
+            {
+              "uri": "/dk/atira/pure/core/keywords/H/HB",
+              "term": {
+                "en_GB": "HB Economic Theory"
+              }
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 13511388,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords"
+          },
+          "keywords": [
+            {
+              "pureId": 13511393,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "Executive labor market",
+                "Economic inequality",
+                "Executive pay",
+                "Labor union",
+                "Great Recession."
+              ]
+            }
+          ]
+        }
+      ],
+      "bibliographicalNote": {
+        "en_GB": "© 2017 The Author"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction"
+        }
+      },
+      "workflow": {
+        "step": "approved",
+        "description": {
+          "en_GB": "Validated"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "researchoutputwizard",
+          "value": "69601"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 15224579,
+          "idSource": "Scopus",
+          "value": "85046803633"
+        }
+      ],
+      "customDefinedFields": {
+        "researchoutput_string_invoice_number": {
+          "typeDiscriminator": "String"
+        },
+        "researchoutput_classification_debit_credit": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_charge_type": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_supplier": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_date_invoice_date": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_date_date_invoice_paid": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_classification_budget": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_type": {
+          "typeDiscriminator": "Classification"
+        }
+      },
+      "pages": "306-328",
+      "volume": "71",
+      "journalAssociation": {
+        "pureId": 13511374,
+        "title": {
+          "pureId": 34357696,
+          "title": "Industrial and Labor Relations Review"
+        },
+        "issn": {
+          "pureId": 16624110,
+          "issn": "0019-7939"
+        },
+        "journal": {
+          "systemName": "Journal",
+          "uuid": "bf67022d-b2b9-4bdc-a871-1e6360c5a2fb"
+        }
+      },
+      "journalNumber": "2",
+      "abstract": {
+        "en_GB": "This paper studies the strategic interaction between employee stakeholders, in particular labor unions, and top management, and evaluates the effect of the two parties’ inherent competitive rent-seeking behavior on CEO pay. Using a panel of firms listed on the S&amp;P/TSX composite index, this paper finds that CEO compensation withstood the financial crisis despite lower and even negative corporate performance. Further, heavily-unionized companies were associated with higher CEO pay in terms of non-equity elements such as salary and pension allocations. The presence of unions had no observed effect in reducing bonuses, stock options, and restricted stock units. These findings have implications for the debate on income inequality, and the power of unions to bring about change."
+      },
+      "systemName": "ResearchOutput"
+    },
+    {
+      "typeDiscriminator": "ContributionToJournal",
+      "pureId": 13511400,
+      "uuid": "acbe705d-95dd-4c95-95e0-5e91886f21b5",
+      "createdBy": "root",
+      "createdDate": "2019-01-23T19:30:20Z",
+      "modifiedBy": "root",
+      "modifiedDate": "2024-01-10T18:55:38.321Z",
+      "portalUrl": "https://cris.lse.ac.uk/portal/en/publications/taxing-times(acbe705d-95dd-4c95-95e0-5e91886f21b5).html",
+      "previousUuids": [
+        "8b30cfc7-e0a9-4496-8f9e-88abb710a88e"
+      ],
+      "version": "3be047086964db2300c3e0747bf99dfbecc39e47",
+      "title": {
+        "value": "Taxing times"
+      },
+      "subTitle": {
+        "value": "taxation, divided societies and the informal economy in Northern Nigeria"
+      },
+      "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+          "en_GB": "Article"
+        }
+      },
+      "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/research",
+        "term": {
+          "en_GB": "Research"
+        }
+      },
+      "peerReview": true,
+      "publicationStatuses": [
+        {
+          "pureId": 13511411,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/inpress",
+            "term": {
+              "en_GB": "Accepted/In press"
+            }
+          },
+          "publicationDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 5
+          }
+        },
+        {
+          "pureId": 13511412,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/epub",
+            "term": {
+              "en_GB": "E-pub ahead of print"
+            }
+          },
+          "publicationDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 12
+          }
+        },
+        {
+          "pureId": 35677875,
+          "current": true,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/published",
+            "term": {
+              "en_GB": "Published"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 1,
+            "day": 2
+          }
+        }
+      ],
+      "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+          "en_GB": "English"
+        }
+      },
+      "contributors": [
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511410,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Kate",
+            "lastName": "Meagher"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "7126fc7d-2959-4f9b-86d7-11c3283988d9"
+          }
+        }
+      ],
+      "organizations": [
+        {
+          "systemName": "Organization",
+          "uuid": "f3938a2b-5f70-45c7-b9e3-dfe05dc5170f"
+        }
+      ],
+      "totalNumberOfContributors": 1,
+      "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "f3938a2b-5f70-45c7-b9e3-dfe05dc5170f"
+      },
+      "electronicVersions": [
+        {
+          "typeDiscriminator": "FileElectronicVersion",
+          "pureId": 13511402,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/open",
+            "term": {
+              "en_GB": "Open"
+            }
+          },
+          "visibleOnPortalDate": "2019-01-23",
+          "creator": "root",
+          "created": "2019-01-23T19:30:20Z",
+          "title": "Meagher_Taxing times_author_LSERO",
+          "file": {
+            "pureId": 35677892,
+            "fileId": "MDAyMjA2NmM0",
+            "fileName": "Meagher_Taxing_times_author_LSERO.pdf",
+            "mimeType": "application/pdf",
+            "size": 681754,
+            "url": "http://cris.lse.ac.uk/ws/api/research-outputs/acbe705d-95dd-4c95-95e0-5e91886f21b5/files/MDAyMjA2NmM0/Meagher_Taxing_times_author_LSERO.pdf"
+          },
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/authorsversion",
+            "term": {
+              "en_GB": "Accepted author manuscript"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "DoiElectronicVersion",
+          "pureId": 13511404,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/closed",
+            "term": {
+              "en_GB": "Closed"
+            }
+          },
+          "doi": "10.1080/00220388.2016.1262026",
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+            "term": {
+              "en_GB": "Final published version"
+            }
+          }
+        }
+      ],
+      "links": [
+        {
+          "pureId": 13511407,
+          "url": "http://www.tandfonline.com/loi/fjds20",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/officialurl",
+            "term": {
+              "en_GB": "Official URL"
+            }
+          }
+        },
+        {
+          "pureId": 13511408,
+          "url": "http://www.lse.ac.uk/international-development/people/kate-meagher.aspx",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          }
+        }
+      ],
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "ClassificationsKeywordGroup",
+          "pureId": 13511405,
+          "logicalName": "librarianKeywordContainers",
+          "name": {
+            "en_GB": "Library Keywords"
+          },
+          "classifications": [
+            {
+              "uri": "/dk/atira/pure/core/keywords/J/JF",
+              "term": {
+                "en_GB": "JF Political institutions (General)"
+              }
+            }
+          ]
+        }
+      ],
+      "bibliographicalNote": {
+        "en_GB": "© 2016 Informa UK Limited, trading as Taylor & Francis Group"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction"
+        }
+      },
+      "workflow": {
+        "step": "approved",
+        "description": {
+          "en_GB": "Validated"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "researchoutputwizard",
+          "value": "68064"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 15224582,
+          "idSource": "Scopus",
+          "value": "85003881407"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 35677876,
+          "idSource": "crossref",
+          "value": "10.1080/00220388.2016.1262026"
+        }
+      ],
+      "customDefinedFields": {
+        "researchoutput_string_invoice_number": {
+          "typeDiscriminator": "String"
+        },
+        "researchoutput_classification_debit_credit": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_charge_type": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_supplier": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_date_invoice_date": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_date_date_invoice_paid": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_classification_budget": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_type": {
+          "typeDiscriminator": "Classification"
+        }
+      },
+      "pages": "1 - 17",
+      "volume": "54",
+      "journalAssociation": {
+        "pureId": 13511401,
+        "title": {
+          "pureId": 24366871,
+          "title": "The Journal of Development Studies"
+        },
+        "issn": {
+          "pureId": 15004618,
+          "issn": "0022-0388"
+        },
+        "journal": {
+          "systemName": "Journal",
+          "uuid": "76a53e48-8c4f-4998-8270-9c22f8de3bc7"
+        }
+      },
+      "journalNumber": "1",
+      "abstract": {
+        "en_GB": "This paper challenges the notion that taxing the informal economy provides a mechanism for increasing popular political voice and rebuilding the social contract. It contends that current arguments for taxing the informal economy suffer from a Eurocentric understanding of taxation and state formation, and a fiscally essentialist and undifferentiated notion of the informal economy. Drawing on fieldwork in northern Nigeria, this paper shows that history, gender, wealth and ethno-religious identity influence how taxing the informal economy shapes governance outcomes. Evidence from Nigeria suggests an inverse relationship between informal economy taxation and political voice, posing the risk that increased taxation will exacerbate social divisions rather than rebuild the social contract."
+      },
+      "systemName": "ResearchOutput"
+    },
+    {
+      "typeDiscriminator": "ContributionToJournal",
+      "pureId": 13511452,
+      "uuid": "b8510105-9f95-4a5a-9101-048c052c26c0",
+      "createdBy": "root",
+      "createdDate": "2019-01-23T19:30:22Z",
+      "modifiedBy": "root",
+      "modifiedDate": "2024-02-29T08:15:46.618Z",
+      "portalUrl": "https://cris.lse.ac.uk/portal/en/publications/membership-ballots-and-the-value-of-intraparty-democracy(b8510105-9f95-4a5a-9101-048c052c26c0).html",
+      "version": "2d6704105e56a82a7e5894e68aede735cb9c973e",
+      "title": {
+        "value": "Membership ballots and the value of intra-party democracy"
+      },
+      "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+          "en_GB": "Article"
+        }
+      },
+      "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/research",
+        "term": {
+          "en_GB": "Research"
+        }
+      },
+      "peerReview": true,
+      "publicationStatuses": [
+        {
+          "pureId": 13511465,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/inpress",
+            "term": {
+              "en_GB": "Accepted/In press"
+            }
+          },
+          "publicationDate": {
+            "year": 2016,
+            "month": 2,
+            "day": 21
+          }
+        },
+        {
+          "pureId": 13511466,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/epub",
+            "term": {
+              "en_GB": "E-pub ahead of print"
+            }
+          },
+          "publicationDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 10
+          }
+        },
+        {
+          "pureId": 13511467,
+          "current": true,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/published",
+            "term": {
+              "en_GB": "Published"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 1,
+            "day": 1
+          }
+        }
+      ],
+      "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+          "en_GB": "English"
+        }
+      },
+      "contributors": [
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511464,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Fabio",
+            "lastName": "Wolkenstein"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "bfc3d32e-889b-4d55-953f-2dd3b4dcad13"
+          }
+        }
+      ],
+      "organizations": [
+        {
+          "systemName": "Organization",
+          "uuid": "950951e3-baa4-4a8b-827c-0ac805f75ba1"
+        }
+      ],
+      "totalNumberOfContributors": 1,
+      "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "72f1489a-2558-49d1-b56d-4720d53f057a"
+      },
+      "electronicVersions": [
+        {
+          "typeDiscriminator": "FileElectronicVersion",
+          "pureId": 13511454,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/open",
+            "term": {
+              "en_GB": "Open"
+            }
+          },
+          "visibleOnPortalDate": "2019-01-23",
+          "creator": "root",
+          "created": "2019-01-23T19:30:22Z",
+          "title": "Wolkensteing_Membership ballots_2016.pdf",
+          "file": {
+            "pureId": 13511455,
+            "fileId": "Y2UyYjFm",
+            "fileName": "Wolkensteing_Membership ballots_2016.pdf",
+            "mimeType": "application/pdf",
+            "size": 0,
+            "url": "http://cris.lse.ac.uk/ws/api/research-outputs/b8510105-9f95-4a5a-9101-048c052c26c0/files/Y2UyYjFm/Wolkensteing_Membership%2520ballots_2016.pdf"
+          },
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/authorsversion",
+            "term": {
+              "en_GB": "Accepted author manuscript"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "DoiElectronicVersion",
+          "pureId": 13511456,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/unknown",
+            "term": {
+              "en_GB": "Unknown"
+            }
+          },
+          "doi": "10.1080/13698230.2016.1159400",
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+            "term": {
+              "en_GB": "Final published version"
+            }
+          }
+        }
+      ],
+      "links": [
+        {
+          "pureId": 13511462,
+          "url": "http://www.tandfonline.com/toc/fcri20/current",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/officialurl",
+            "term": {
+              "en_GB": "Official URL"
+            }
+          }
+        }
+      ],
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "ClassificationsKeywordGroup",
+          "pureId": 13511457,
+          "logicalName": "librarianKeywordContainers",
+          "name": {
+            "en_GB": "Library Keywords"
+          },
+          "classifications": [
+            {
+              "uri": "/dk/atira/pure/core/keywords/J/JA",
+              "term": {
+                "en_GB": "JA Political science (General)"
+              }
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 13511459,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords"
+          },
+          "keywords": [
+            {
+              "pureId": 13511461,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "political parties",
+                "membership ballots",
+                "intra-party democracy",
+                "democratic theory",
+                "party membership"
+              ]
+            }
+          ]
+        }
+      ],
+      "bibliographicalNote": {
+        "en_GB": "© 2016 Taylor & Francis"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction"
+        }
+      },
+      "workflow": {
+        "step": "approved",
+        "description": {
+          "en_GB": "Validated"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "researchoutputwizard",
+          "value": "65719"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 15224585,
+          "idSource": "Scopus",
+          "value": "85049829056"
+        }
+      ],
+      "customDefinedFields": {
+        "researchoutput_string_invoice_number": {
+          "typeDiscriminator": "String"
+        },
+        "researchoutput_classification_debit_credit": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_charge_type": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_supplier": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_date_invoice_date": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_date_date_invoice_paid": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_classification_budget": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_type": {
+          "typeDiscriminator": "Classification"
+        }
+      },
+      "pages": "433-455",
+      "volume": "21",
+      "journalAssociation": {
+        "pureId": 13511453,
+        "title": {
+          "pureId": 13511442,
+          "title": "Critical Review of International Social and Political Philosophy"
+        },
+        "issn": {
+          "pureId": 13511441,
+          "issn": "1369-8230"
+        },
+        "journal": {
+          "systemName": "Journal",
+          "uuid": "44670047-33a3-4443-abc5-ae95a34fa9e4"
+        }
+      },
+      "journalNumber": "4",
+      "abstract": {
+        "en_GB": "On the face of it, membership ballots present a clear case in which intra-party democ-racy comes into collision with core principles of representative democracy: they weaken the autonomy of representatives, and undermine the authority of the voters. In this article, I investigate whether this is correct, and whether membership ballots are, therefore, democratically illegitimate, using the controversial 2013 Mitgliederentscheid in the German Social Democratic party as a critical case. I argue that there is nothing democratically suspect about membership ballots and mount a defence of intra-party democracy as intrinsically valuable, appealing to a principle of equal respect for persons as autonomous agents. It turns out that endorsing this prin-ciple has two possible implications: that the content of the ballot must be open to de-liberation, and that these deliberations should be rendered open to non-members. I discuss these implications and offer some institutional design guidelines."
+      },
+      "systemName": "ResearchOutput"
+    },
+    {
+      "typeDiscriminator": "ContributionToJournal",
+      "pureId": 13511472,
+      "uuid": "09170d8e-c39f-4cd8-8073-bd77a35837f3",
+      "createdBy": "root",
+      "createdDate": "2019-01-23T19:30:22Z",
+      "modifiedBy": "root",
+      "modifiedDate": "2024-01-30T04:10:42.691Z",
+      "portalUrl": "https://cris.lse.ac.uk/portal/en/publications/our-own-poor-transnational-charity-development-gifts-and-the-politics-of-suffering-in-sylhet-and-the-uk(09170d8e-c39f-4cd8-8073-bd77a35837f3).html",
+      "version": "4c8bcc83f78c35f5595ff9ec9b9fcafd39d19f92",
+      "title": {
+        "value": "Our own poor: transnational charity, development gifts and the politics of suffering in Sylhet and the U.K."
+      },
+      "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+          "en_GB": "Article"
+        }
+      },
+      "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/research",
+        "term": {
+          "en_GB": "Research"
+        }
+      },
+      "peerReview": true,
+      "publicationStatuses": [
+        {
+          "pureId": 13511483,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/epub",
+            "term": {
+              "en_GB": "E-pub ahead of print"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 3,
+            "day": 16
+          }
+        },
+        {
+          "pureId": 13511484,
+          "current": true,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/published",
+            "term": {
+              "en_GB": "Published"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 3,
+            "day": 16
+          }
+        }
+      ],
+      "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+          "en_GB": "English"
+        }
+      },
+      "contributors": [
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511482,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Katy",
+            "lastName": "Gardner"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "5a6f03d0-6421-4887-ae49-9a9d144a523d"
+          }
+        }
+      ],
+      "organizations": [
+        {
+          "systemName": "Organization",
+          "uuid": "ad505fed-58c7-4891-92e9-c1416f11f456"
+        }
+      ],
+      "totalNumberOfContributors": 1,
+      "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "ad505fed-58c7-4891-92e9-c1416f11f456"
+      },
+      "electronicVersions": [
+        {
+          "typeDiscriminator": "FileElectronicVersion",
+          "pureId": 13511475,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/open",
+            "term": {
+              "en_GB": "Open"
+            }
+          },
+          "visibleOnPortalDate": "2019-01-23",
+          "creator": "root",
+          "created": "2019-01-23T19:30:22Z",
+          "title": "Gardner_Our_own_poor.pdf",
+          "file": {
+            "pureId": 13511476,
+            "fileId": "Y2UyYjM0",
+            "fileName": "Gardner_Our_own_poor.pdf",
+            "mimeType": "application/pdf",
+            "size": 0,
+            "url": "http://cris.lse.ac.uk/ws/api/research-outputs/09170d8e-c39f-4cd8-8073-bd77a35837f3/files/Y2UyYjM0/Gardner_Our_own_poor.pdf"
+          },
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/authorsversion",
+            "term": {
+              "en_GB": "Accepted author manuscript"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "DoiElectronicVersion",
+          "pureId": 13511477,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/unknown",
+            "term": {
+              "en_GB": "Unknown"
+            }
+          },
+          "doi": "10.1017/S0026749X16000767",
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+            "term": {
+              "en_GB": "Final published version"
+            }
+          }
+        }
+      ],
+      "links": [
+        {
+          "pureId": 13511480,
+          "url": "https://www.cambridge.org/",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/officialurl",
+            "term": {
+              "en_GB": "Official URL"
+            }
+          }
+        }
+      ],
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "ClassificationsKeywordGroup",
+          "pureId": 13511478,
+          "logicalName": "librarianKeywordContainers",
+          "name": {
+            "en_GB": "Library Keywords"
+          },
+          "classifications": [
+            {
+              "uri": "/dk/atira/pure/core/keywords/H/HN",
+              "term": {
+                "en_GB": "HN Social history and conditions. Social problems. Social  reform"
+              }
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "FullKeywordGroup",
+          "pureId": 16373761,
+          "logicalName": "dk/atira/pure/keywords/Funding_Organisation",
+          "name": {
+            "en_GB": "Funder & Reference"
+          },
+          "keywordContainers": [
+            {
+              "pureId": 16373762,
+              "structuredKeyword": {
+                "uri": "dk/atira/pure/keywords/Funding_Organisation/679",
+                "term": {
+                  "en_GB": "Economic and Social Research Council (ESRC)"
+                }
+              }
+            },
+            {
+              "pureId": 16373763,
+              "structuredKeyword": {
+                "uri": "dk/atira/pure/keywords/Funding_Organisation/867",
+                "term": {
+                  "en_GB": "Department for International Development (DFID)"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "bibliographicalNote": {
+        "en_GB": "© 2016 Cambridge University Press"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction"
+        }
+      },
+      "workflow": {
+        "step": "approved",
+        "description": {
+          "en_GB": "Validated"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "researchoutputwizard",
+          "value": "68086"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 15224588,
+          "idSource": "Scopus",
+          "value": "85044031823"
+        }
+      ],
+      "customDefinedFields": {
+        "researchoutput_string_invoice_number": {
+          "typeDiscriminator": "String"
+        },
+        "researchoutput_classification_debit_credit": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_charge_type": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_supplier": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_date_invoice_date": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_date_date_invoice_paid": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_classification_budget": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_type": {
+          "typeDiscriminator": "Classification"
+        }
+      },
+      "pages": "163-185",
+      "volume": "52",
+      "journalAssociation": {
+        "pureId": 13511473,
+        "title": {
+          "pureId": 13511439,
+          "title": "Modern Asian Studies"
+        },
+        "issn": {
+          "pureId": 13511438,
+          "issn": "0026-749X"
+        },
+        "journal": {
+          "systemName": "Journal",
+          "uuid": "5500502c-3ce1-47ae-9990-030eaaf0b5e3"
+        }
+      },
+      "journalNumber": "1",
+      "abstract": {
+        "en_GB": "Based on fieldwork in Bibiyana, NE Bangladesh, this paper compares the transnational charity offered to known individuals by migrant, UK based families, with the philanthropic efforts of the multinational company Chevron, who operate a large gas field in the neighbourhood.  Applying Fassin’s notion of the ‘politics of suffering’ to both types of exchange, the paper argues that the two types of giving are underlain by incommensurate moral economies.  Whilst in instances of transnational charity, social inequality and the compassion felt towards the suffering of known people, or ‘our own poor’, underscore the exchanges, in the philanthropic efforts of ‘community engagement’ the inequality of giver and receiver is repressed and the exchange is animated by a moral economy, rooted in Christianity, in which compassion guides actions towards the suffering of unknown, anonymous strangers."
+      },
+      "systemName": "ResearchOutput"
+    },
+    {
+      "typeDiscriminator": "ContributionToJournal",
+      "pureId": 13511493,
+      "uuid": "c8b9870b-5f9b-4d39-8aec-de03a1caf7a8",
+      "createdBy": "root",
+      "createdDate": "2019-01-23T19:30:22Z",
+      "modifiedBy": "root",
+      "modifiedDate": "2024-03-19T18:29:43.093Z",
+      "portalUrl": "https://cris.lse.ac.uk/portal/en/publications/a-primary-definer-online-the-construction-and-propagation-of-a-think-tanks-authority-on-social-media(c8b9870b-5f9b-4d39-8aec-de03a1caf7a8).html",
+      "version": "8f6c21615bf1c9d8af27d52d8720f955d11c00fe",
+      "title": {
+        "value": "A primary definer online: the construction and propagation of a think tank’s authority on social media"
+      },
+      "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+          "en_GB": "Article"
+        }
+      },
+      "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/research",
+        "term": {
+          "en_GB": "Research"
+        }
+      },
+      "peerReview": true,
+      "publicationStatuses": [
+        {
+          "pureId": 13511510,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/inpress",
+            "term": {
+              "en_GB": "Accepted/In press"
+            }
+          },
+          "publicationDate": {
+            "year": 2017,
+            "month": 2,
+            "day": 25
+          }
+        },
+        {
+          "pureId": 13511511,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/epub",
+            "term": {
+              "en_GB": "E-pub ahead of print"
+            }
+          },
+          "publicationDate": {
+            "year": 2017,
+            "month": 5,
+            "day": 16
+          }
+        },
+        {
+          "pureId": 13511512,
+          "current": true,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/published",
+            "term": {
+              "en_GB": "Published"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 3,
+            "day": 1
+          }
+        }
+      ],
+      "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+          "en_GB": "English"
+        }
+      },
+      "contributors": [
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511508,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Nick",
+            "lastName": "Anstead"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "5bb7f42a-b377-4cf7-9648-f296a631e65f"
+          }
+        },
+        {
+          "typeDiscriminator": "ExternalContributorAssociation",
+          "pureId": 13511509,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Andrew",
+            "lastName": "Chadwick"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "externalPerson": {
+            "systemName": "ExternalPerson",
+            "uuid": "0d26f9b5-40f8-4c91-bc46-878dd1696d10"
+          }
+        }
+      ],
+      "organizations": [
+        {
+          "systemName": "Organization",
+          "uuid": "73079660-4ce2-4377-b492-0fdda6ac9800"
+        }
+      ],
+      "totalNumberOfContributors": 2,
+      "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "73079660-4ce2-4377-b492-0fdda6ac9800"
+      },
+      "electronicVersions": [
+        {
+          "typeDiscriminator": "FileElectronicVersion",
+          "pureId": 13511495,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/open",
+            "term": {
+              "en_GB": "Open"
+            }
+          },
+          "visibleOnPortalDate": "2019-01-23",
+          "creator": "root",
+          "created": "2019-01-23T19:30:22Z",
+          "title": "Anstead_Primary definer online_2017.pdf",
+          "file": {
+            "pureId": 13511496,
+            "fileId": "Y2UyYjQ4",
+            "fileName": "Anstead_Primary definer online_2017.pdf",
+            "mimeType": "application/pdf",
+            "size": 0,
+            "url": "http://cris.lse.ac.uk/ws/api/research-outputs/c8b9870b-5f9b-4d39-8aec-de03a1caf7a8/files/Y2UyYjQ4/Anstead_Primary%2520definer%2520online_2017.pdf"
+          },
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/authorsversion",
+            "term": {
+              "en_GB": "Accepted author manuscript"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "DoiElectronicVersion",
+          "pureId": 13511497,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/unknown",
+            "term": {
+              "en_GB": "Unknown"
+            }
+          },
+          "doi": "10.1177/0163443717707341",
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+            "term": {
+              "en_GB": "Final published version"
+            }
+          }
+        }
+      ],
+      "links": [
+        {
+          "pureId": 13511505,
+          "url": "http://journals.sagepub.com/home/mcs",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/officialurl",
+            "term": {
+              "en_GB": "Official URL"
+            }
+          }
+        },
+        {
+          "pureId": 13511506,
+          "url": "http://www.lse.ac.uk/media-and-communications/people/academic-staff/nick-anstead/home.aspx",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          }
+        }
+      ],
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "ClassificationsKeywordGroup",
+          "pureId": 13511498,
+          "logicalName": "librarianKeywordContainers",
+          "name": {
+            "en_GB": "Library Keywords"
+          },
+          "classifications": [
+            {
+              "uri": "/dk/atira/pure/core/keywords/H/H1",
+              "term": {
+                "en_GB": "H Social Sciences (General)"
+              }
+            },
+            {
+              "uri": "/dk/atira/pure/core/keywords/H/HC",
+              "term": {
+                "en_GB": "HC Economic History and Conditions"
+              }
+            },
+            {
+              "uri": "/dk/atira/pure/core/keywords/P/PN/PN1990",
+              "term": {
+                "en_GB": "PN1990 Broadcasting"
+              }
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 13511502,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords"
+          },
+          "keywords": [
+            {
+              "pureId": 13511504,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "social media",
+                "news",
+                "journalism",
+                "authority signalling",
+                "power",
+                "economic policy",
+                "austerity"
+              ]
+            }
+          ]
+        }
+      ],
+      "bibliographicalNote": {
+        "en_GB": "© 2017 The Authors"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction"
+        }
+      },
+      "workflow": {
+        "step": "approved",
+        "description": {
+          "en_GB": "Validated"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "researchoutputwizard",
+          "value": "69628"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 15224591,
+          "idSource": "Scopus",
+          "value": "85041318295"
+        }
+      ],
+      "customDefinedFields": {
+        "researchoutput_string_invoice_number": {
+          "typeDiscriminator": "String"
+        },
+        "researchoutput_classification_debit_credit": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_charge_type": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_supplier": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_date_invoice_date": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_date_date_invoice_paid": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_classification_budget": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_type": {
+          "typeDiscriminator": "Classification"
+        }
+      },
+      "pages": "246-266",
+      "volume": "40",
+      "journalAssociation": {
+        "pureId": 13511494,
+        "title": {
+          "pureId": 24488497,
+          "title": "Media, Culture and Society"
+        },
+        "issn": {
+          "pureId": 13550628,
+          "issn": "0163-4437"
+        },
+        "journal": {
+          "systemName": "Journal",
+          "uuid": "57ca34ec-8200-4cef-9c84-0f2edaf912cf"
+        }
+      },
+      "journalNumber": "2",
+      "abstract": {
+        "en_GB": "Who has power in the construction of economic news in the UK? Are social media reshaping how this power is enabled? We examine the public Twitter interactions between journalists, political elites, and what is arguably the UK’s most important think tank, the Institute for Fiscal Studies (IFS), during the 2015 UK general election campaign. Combining human-coded content analysis and network analysis of Twitter discourse about the IFS during a 38-day period, we explain how and why the authority of this think tank is being translated to social media. We develop a new, social media theory of ‘primary definers’ and show how the political authority on which such roles rest is co-constructed and propagated by professional journalists and political elites. Central to this process is a behaviour we conceptualize and measure: authority signalling. Our findings call into question some of the more sanguine generalizations about social media’s contribution to pluralist democracy. Given the dominance of public service broadcasters in the processes we identify, we argue that, despite the growth of social media, there can be surprising limits on the extent to which contemporary media systems help citizens gain information about the assumptions underlying economic policy."
+      },
+      "systemName": "ResearchOutput"
+    },
+    {
+      "typeDiscriminator": "ContributionToJournal",
+      "pureId": 13511533,
+      "uuid": "14f6c36f-fcb1-429c-b686-3fd272c35ac3",
+      "createdBy": "root",
+      "createdDate": "2019-01-23T19:30:23Z",
+      "modifiedBy": "root",
+      "modifiedDate": "2024-03-09T21:51:38.375Z",
+      "portalUrl": "https://cris.lse.ac.uk/portal/en/publications/transformation-from-below-in-bangladesh-decentralization-local-governance-and-systemic-change(14f6c36f-fcb1-429c-b686-3fd272c35ac3).html",
+      "version": "c8eafcee73a67467b1cdc9c0e4b193019a895845",
+      "title": {
+        "value": "Transformation from below in Bangladesh: decentralization, local governance, and systemic change"
+      },
+      "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+          "en_GB": "Article"
+        }
+      },
+      "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/research",
+        "term": {
+          "en_GB": "Research"
+        }
+      },
+      "peerReview": true,
+      "publicationStatuses": [
+        {
+          "pureId": 13511548,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/inpress",
+            "term": {
+              "en_GB": "Accepted/In press"
+            }
+          },
+          "publicationDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 12
+          }
+        },
+        {
+          "pureId": 13511549,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/epub",
+            "term": {
+              "en_GB": "E-pub ahead of print"
+            }
+          },
+          "publicationDate": {
+            "year": 2017,
+            "month": 11,
+            "day": 1
+          }
+        },
+        {
+          "pureId": 13511550,
+          "current": true,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/published",
+            "term": {
+              "en_GB": "Published"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 1,
+            "day": 12
+          }
+        }
+      ],
+      "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+          "en_GB": "English"
+        }
+      },
+      "contributors": [
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511547,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Jean-Paul",
+            "lastName": "Faguet"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "1dd9ba00-26f0-493f-837a-e7c29035efc0"
+          }
+        }
+      ],
+      "organizations": [
+        {
+          "systemName": "Organization",
+          "uuid": "f3938a2b-5f70-45c7-b9e3-dfe05dc5170f"
+        },
+        {
+          "systemName": "Organization",
+          "uuid": "cc1541a3-a405-4c5a-9d38-fe2f520488a5"
+        }
+      ],
+      "totalNumberOfContributors": 1,
+      "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "f3938a2b-5f70-45c7-b9e3-dfe05dc5170f"
+      },
+      "electronicVersions": [
+        {
+          "typeDiscriminator": "FileElectronicVersion",
+          "pureId": 13511536,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/open",
+            "term": {
+              "en_GB": "Open"
+            }
+          },
+          "visibleOnPortalDate": "2019-01-23",
+          "creator": "root",
+          "created": "2019-01-23T19:30:23Z",
+          "title": "Faguet_Transformation form below in Bangladesh.pdf",
+          "file": {
+            "pureId": 13511537,
+            "fileId": "Y2UyYjcx",
+            "fileName": "Faguet_Transformation form below in Bangladesh.pdf",
+            "mimeType": "application/pdf",
+            "size": 0,
+            "url": "http://cris.lse.ac.uk/ws/api/research-outputs/14f6c36f-fcb1-429c-b686-3fd272c35ac3/files/Y2UyYjcx/Faguet_Transformation%2520form%2520below%2520in%2520Bangladesh.pdf"
+          },
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/authorsversion",
+            "term": {
+              "en_GB": "Accepted author manuscript"
+            }
+          }
+        }
+      ],
+      "links": [
+        {
+          "pureId": 13511543,
+          "url": "http://journals.cambridge.org/action/displayJournal?jid=ASS",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/officialurl",
+            "term": {
+              "en_GB": "Official URL"
+            }
+          }
+        },
+        {
+          "pureId": 13511544,
+          "url": "http://www.lse.ac.uk/international-development/people/jean-paul-faguet.aspx",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          }
+        }
+      ],
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "ClassificationsKeywordGroup",
+          "pureId": 13511538,
+          "logicalName": "librarianKeywordContainers",
+          "name": {
+            "en_GB": "Library Keywords"
+          },
+          "classifications": [
+            {
+              "uri": "/dk/atira/pure/core/keywords/J/JA",
+              "term": {
+                "en_GB": "JA Political science (General)"
+              }
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 13511540,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords"
+          },
+          "keywords": [
+            {
+              "pureId": 13511542,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "democracy",
+                "decentralization",
+                "local government",
+                "good governance",
+                "civil society",
+                "Bolivia",
+                "Bangladesh"
+              ]
+            }
+          ]
+        }
+      ],
+      "bibliographicalNote": {
+        "en_GB": "© 2016 Cambridge University Press"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction"
+        }
+      },
+      "workflow": {
+        "step": "approved",
+        "description": {
+          "en_GB": "Validated"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "researchoutputwizard",
+          "value": "66239"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 15224594,
+          "idSource": "Scopus",
+          "value": "85040942455"
+        }
+      ],
+      "customDefinedFields": {
+        "researchoutput_string_invoice_number": {
+          "typeDiscriminator": "String"
+        },
+        "researchoutput_classification_debit_credit": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_charge_type": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_supplier": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_date_invoice_date": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_date_date_invoice_paid": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_classification_budget": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_type": {
+          "typeDiscriminator": "Classification"
+        }
+      },
+      "pages": "1668-1694",
+      "volume": "51",
+      "journalAssociation": {
+        "pureId": 13511535,
+        "title": {
+          "pureId": 13511439,
+          "title": "Modern Asian Studies"
+        },
+        "issn": {
+          "pureId": 13511438,
+          "issn": "0026-749X"
+        },
+        "journal": {
+          "systemName": "Journal",
+          "uuid": "5500502c-3ce1-47ae-9990-030eaaf0b5e3"
+        }
+      },
+      "journalNumber": "6",
+      "systemName": "ResearchOutput"
+    },
+    {
+      "typeDiscriminator": "ContributionToJournal",
+      "pureId": 13511569,
+      "uuid": "3a759705-3df6-4a5e-a01f-59b1fcfe010a",
+      "createdBy": "root",
+      "createdDate": "2019-01-23T19:30:23Z",
+      "modifiedBy": "root",
+      "modifiedDate": "2024-03-19T18:29:43.252Z",
+      "portalUrl": "https://cris.lse.ac.uk/portal/en/publications/effective-and-geographically-balanced-an-outputbased-assessment-of-nonstate-climate-actions(3a759705-3df6-4a5e-a01f-59b1fcfe010a).html",
+      "version": "12b40401868739784d7f8378abccf11e01c998c7",
+      "title": {
+        "value": "Effective and geographically balanced? An output-based assessment of non-state climate actions"
+      },
+      "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+          "en_GB": "Article"
+        }
+      },
+      "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/research",
+        "term": {
+          "en_GB": "Research"
+        }
+      },
+      "peerReview": true,
+      "publicationStatuses": [
+        {
+          "pureId": 13511586,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/inpress",
+            "term": {
+              "en_GB": "Accepted/In press"
+            }
+          },
+          "publicationDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 9
+          }
+        },
+        {
+          "pureId": 13511587,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/epub",
+            "term": {
+              "en_GB": "E-pub ahead of print"
+            }
+          },
+          "publicationDate": {
+            "year": 2016,
+            "month": 11,
+            "day": 16
+          }
+        },
+        {
+          "pureId": 13511588,
+          "current": true,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/published",
+            "term": {
+              "en_GB": "Published"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 1,
+            "day": 1
+          }
+        }
+      ],
+      "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+          "en_GB": "English"
+        }
+      },
+      "contributors": [
+        {
+          "typeDiscriminator": "ExternalContributorAssociation",
+          "pureId": 13511582,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Sander",
+            "lastName": "Chan"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "externalPerson": {
+            "systemName": "ExternalPerson",
+            "uuid": "d5345540-d705-414d-8a8a-9a1923336914"
+          }
+        },
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511583,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Robert",
+            "lastName": "Falkner"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "d6f1ddb3-80ad-412c-b5a2-05eb8357ddac"
+          }
+        },
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511584,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Matthew",
+            "lastName": "Goldberg"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "7b146662-471d-4b27-9e50-7e6c4c9e2c1c"
+          }
+        },
+        {
+          "typeDiscriminator": "ExternalContributorAssociation",
+          "pureId": 13511585,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Harro",
+            "lastName": "van Asselt"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "externalPerson": {
+            "systemName": "ExternalPerson",
+            "uuid": "3f3f0537-766d-4a2f-99e6-579875121f1e"
+          }
+        }
+      ],
+      "organizations": [
+        {
+          "systemName": "Organization",
+          "uuid": "100b6cdf-05b2-4f11-bfb8-cd3057e0b8d7"
+        }
+      ],
+      "totalNumberOfContributors": 4,
+      "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "100b6cdf-05b2-4f11-bfb8-cd3057e0b8d7"
+      },
+      "electronicVersions": [
+        {
+          "typeDiscriminator": "FileElectronicVersion",
+          "pureId": 13511571,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/open",
+            "term": {
+              "en_GB": "Open"
+            }
+          },
+          "licenseType": {
+            "uri": "/dk/atira/pure/core/document/licenses/cc_by_nc_nd",
+            "term": {
+              "en_GB": "Creative Commons Attribution Non-commercial No Derivatives"
+            }
+          },
+          "visibleOnPortalDate": "2019-01-23",
+          "creator": "root",
+          "created": "2019-01-23T19:30:23Z",
+          "title": "Falkner_Effective geographically balanced_2016.pdf",
+          "file": {
+            "pureId": 13511572,
+            "fileId": "Y2UyYjk0",
+            "fileName": "Falkner_Effective geographically balanced_2016.pdf",
+            "mimeType": "application/pdf",
+            "size": 0,
+            "url": "http://cris.lse.ac.uk/ws/api/research-outputs/3a759705-3df6-4a5e-a01f-59b1fcfe010a/files/Y2UyYjk0/Falkner_Effective%2520geographically%2520balanced_2016.pdf"
+          },
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+            "term": {
+              "en_GB": "Final published version"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "DoiElectronicVersion",
+          "pureId": 13511573,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/unknown",
+            "term": {
+              "en_GB": "Unknown"
+            }
+          },
+          "doi": "10.1080/14693062.2016.1248343",
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+            "term": {
+              "en_GB": "Final published version"
+            }
+          }
+        }
+      ],
+      "links": [
+        {
+          "pureId": 13511579,
+          "url": "http://www.tandfonline.com/toc/tcpo20/current",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/officialurl",
+            "term": {
+              "en_GB": "Official URL"
+            }
+          }
+        },
+        {
+          "pureId": 13511580,
+          "url": "http://www.lse.ac.uk/international-relations/people/falkner.aspx",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          }
+        }
+      ],
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "ClassificationsKeywordGroup",
+          "pureId": 13511574,
+          "logicalName": "librarianKeywordContainers",
+          "name": {
+            "en_GB": "Library Keywords"
+          },
+          "classifications": [
+            {
+              "uri": "/dk/atira/pure/core/keywords/G/GE",
+              "term": {
+                "en_GB": "GE Environmental Sciences"
+              }
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 13511576,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords"
+          },
+          "keywords": [
+            {
+              "pureId": 13511578,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "climate policy",
+                "non-state actors",
+                "Paris Agreement",
+                "transnational governance",
+                "UNFCCC"
+              ]
+            }
+          ]
+        }
+      ],
+      "bibliographicalNote": {
+        "en_GB": "© 2016 The Authors © CC BY-NC-ND 4.0"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction"
+        }
+      },
+      "workflow": {
+        "step": "approved",
+        "description": {
+          "en_GB": "Validated"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "researchoutputwizard",
+          "value": "68387"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 15224597,
+          "idSource": "Scopus",
+          "value": "84995705661"
+        }
+      ],
+      "customDefinedFields": {
+        "researchoutput_string_invoice_number": {
+          "typeDiscriminator": "String"
+        },
+        "researchoutput_classification_debit_credit": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_charge_type": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_supplier": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_date_invoice_date": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_date_date_invoice_paid": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_classification_budget": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_type": {
+          "typeDiscriminator": "Classification"
+        }
+      },
+      "pages": "24-35",
+      "volume": "18",
+      "journalAssociation": {
+        "pureId": 13511570,
+        "title": {
+          "pureId": 13511528,
+          "title": "Climate Policy"
+        },
+        "issn": {
+          "pureId": 13511527,
+          "issn": "1469-3062"
+        },
+        "journal": {
+          "systemName": "Journal",
+          "uuid": "bef741d7-15aa-442c-b88f-1b25a1039295"
+        }
+      },
+      "journalNumber": "1",
+      "abstract": {
+        "en_GB": "At COP21 in Paris, governments reiterated the importance of ‘non-Party’ contributions, placing big bets that the efforts of cities, regions, investors, companies, and other social groups will help keep average global warming limited to well under 2°C. However, there is little systematic knowledge concerning the performance of non-state and subnational efforts. We established a database of 52 climate actions launched at the 2014 UN Climate Summit in New York to assess output performance – that is, the production of relevant outputs – to understand whether they are likely to deliver social and environmental impacts. Moreover, we assess to which extent climate actions are implemented across developed and developing countries. We find that climate actions are starting to deliver, and output performance after one year is higher than one might expect from previous experiences with similar actions. However, differences exist between action areas: resilience actions have yet to produce specific outputs, whereas energy and industry actions perform above average. Furthermore, imbalances between developing and developed countries persist. While many actions target low-income and lower-middle-income economies, the implementation gap in these countries remains greater. More efforts are necessary to mobilize and implement actions that benefit the world’s most vulnerable people."
+      },
+      "systemName": "ResearchOutput"
+    },
+    {
+      "typeDiscriminator": "ContributionToJournal",
+      "pureId": 13511610,
+      "uuid": "cc56c92d-a42d-42a0-86f8-d98e009fea9a",
+      "createdBy": "root",
+      "createdDate": "2019-01-23T19:30:24Z",
+      "modifiedBy": "root",
+      "modifiedDate": "2024-03-09T21:51:38.421Z",
+      "portalUrl": "https://cris.lse.ac.uk/portal/en/publications/an-intertemporal-capm-with-stochastic-volatility(cc56c92d-a42d-42a0-86f8-d98e009fea9a).html",
+      "version": "b70781a36fdeafc4d326ceec228490916f7b5b13",
+      "title": {
+        "value": "An Intertemporal CAPM with stochastic volatility"
+      },
+      "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+          "en_GB": "Article"
+        }
+      },
+      "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/research",
+        "term": {
+          "en_GB": "Research"
+        }
+      },
+      "peerReview": true,
+      "publicationStatuses": [
+        {
+          "pureId": 13511623,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/inpress",
+            "term": {
+              "en_GB": "Accepted/In press"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 2,
+            "day": 19
+          }
+        },
+        {
+          "pureId": 13511624,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/epub",
+            "term": {
+              "en_GB": "E-pub ahead of print"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 2,
+            "day": 27
+          }
+        },
+        {
+          "pureId": 13511625,
+          "current": true,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/published",
+            "term": {
+              "en_GB": "Published"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 5,
+            "day": 1
+          }
+        }
+      ],
+      "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+          "en_GB": "English"
+        }
+      },
+      "contributors": [
+        {
+          "typeDiscriminator": "ExternalContributorAssociation",
+          "pureId": 13511619,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "John Y.",
+            "lastName": "Campbell"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "externalPerson": {
+            "systemName": "ExternalPerson",
+            "uuid": "ef99cf13-092e-4804-b6e2-d9f9980d379c"
+          }
+        },
+        {
+          "typeDiscriminator": "ExternalContributorAssociation",
+          "pureId": 13511620,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Stefano",
+            "lastName": "Giglio"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "externalPerson": {
+            "systemName": "ExternalPerson",
+            "uuid": "a2ca3646-c526-44f8-9279-8b9fc0411af2"
+          }
+        },
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511621,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Christopher",
+            "lastName": "Polk"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "ea81a843-e03e-48c0-85c8-57869274139c"
+          },
+          "organizations": [
+            {
+              "systemName": "Organization",
+              "uuid": "09c160be-da01-464d-beec-66cd2cdcd7a4"
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "ExternalContributorAssociation",
+          "pureId": 13511622,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Robert",
+            "lastName": "Turley"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "externalPerson": {
+            "systemName": "ExternalPerson",
+            "uuid": "2b27acfd-03ac-465a-b905-4c0b4e79cdd2"
+          }
+        }
+      ],
+      "organizations": [
+        {
+          "systemName": "Organization",
+          "uuid": "e327a360-ed12-4bf5-8e2b-122cbf7d5636"
+        },
+        {
+          "systemName": "Organization",
+          "uuid": "09c160be-da01-464d-beec-66cd2cdcd7a4"
+        }
+      ],
+      "totalNumberOfContributors": 4,
+      "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "09c160be-da01-464d-beec-66cd2cdcd7a4"
+      },
+      "electronicVersions": [
+        {
+          "typeDiscriminator": "FileElectronicVersion",
+          "pureId": 13511612,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/embargoed",
+            "term": {
+              "en_GB": "Embargoed"
+            }
+          },
+          "embargoPeriod": {
+            "endDate": "2019-08-27"
+          },
+          "visibleOnPortalDate": "2019-08-27",
+          "creator": "root",
+          "created": "2019-01-23T19:30:24Z",
+          "title": "Polk_an_intertemporal_CPAM_author.pdf",
+          "file": {
+            "pureId": 13511613,
+            "fileId": "Y2UyYmJk",
+            "fileName": "Polk_an_intertemporal_CPAM_author.pdf",
+            "mimeType": "application/pdf",
+            "size": 0,
+            "url": "http://cris.lse.ac.uk/ws/api/research-outputs/cc56c92d-a42d-42a0-86f8-d98e009fea9a/files/Y2UyYmJk/Polk_an_intertemporal_CPAM_author.pdf"
+          },
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/authorsversion",
+            "term": {
+              "en_GB": "Accepted author manuscript"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "DoiElectronicVersion",
+          "pureId": 13511614,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/unknown",
+            "term": {
+              "en_GB": "Unknown"
+            }
+          },
+          "doi": "10.1016/j.jfineco.2018.02.011",
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+            "term": {
+              "en_GB": "Final published version"
+            }
+          }
+        }
+      ],
+      "links": [
+        {
+          "pureId": 13511617,
+          "url": "https://www.journals.elsevier.com/journal-of-financial-economics",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/officialurl",
+            "term": {
+              "en_GB": "Official URL"
+            }
+          }
+        }
+      ],
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "ClassificationsKeywordGroup",
+          "pureId": 13511615,
+          "logicalName": "librarianKeywordContainers",
+          "name": {
+            "en_GB": "Library Keywords"
+          },
+          "classifications": [
+            {
+              "uri": "/dk/atira/pure/core/keywords/H/HG",
+              "term": {
+                "en_GB": "HG Finance"
+              }
+            }
+          ]
+        }
+      ],
+      "bibliographicalNote": {
+        "en_GB": "© 2017 Elsevier"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction"
+        }
+      },
+      "workflow": {
+        "step": "approved",
+        "description": {
+          "en_GB": "Validated"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "researchoutputwizard",
+          "value": "69634"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 15224600,
+          "idSource": "Scopus",
+          "value": "85043453850"
+        }
+      ],
+      "customDefinedFields": {
+        "researchoutput_string_invoice_number": {
+          "typeDiscriminator": "String"
+        },
+        "researchoutput_classification_debit_credit": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_charge_type": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_supplier": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_date_invoice_date": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_date_date_invoice_paid": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_classification_budget": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_type": {
+          "typeDiscriminator": "Classification"
+        }
+      },
+      "pages": "207-233",
+      "volume": "128",
+      "journalAssociation": {
+        "pureId": 13511611,
+        "title": {
+          "pureId": 13511566,
+          "title": "Journal of Financial Economics"
+        },
+        "issn": {
+          "pureId": 13511565,
+          "issn": "0304-405X"
+        },
+        "journal": {
+          "systemName": "Journal",
+          "uuid": "246ec3ad-349f-4268-90fe-c15e39fa2618"
+        }
+      },
+      "journalNumber": "2",
+      "abstract": {
+        "en_GB": "This paper studies the pricing of volatility risk using the Örst-order conditions of a long-term equity investor who is content to hold the aggregate equity market rather than overweighting value stocks and other equity portfolios that are attractive to short-term investors. We show that a conservative long-term investor will avoid such overweights in order to hedge against two types of deterioration in investment opportunities: declining expected stock returns, and increasing volatility. Empirically, we present novel evidence that low-frequency movements in equity volatility, tied to the default spread, are priced in the cross-section of stock returns."
+      },
+      "systemName": "ResearchOutput"
+    },
+    {
+      "typeDiscriminator": "ContributionToJournal",
+      "pureId": 13511636,
+      "uuid": "2de15d5d-1454-444f-8792-fd8bd24c46a7",
+      "createdBy": "root",
+      "createdDate": "2019-01-23T19:30:24Z",
+      "modifiedBy": "root",
+      "modifiedDate": "2024-03-09T21:51:38.459Z",
+      "portalUrl": "https://cris.lse.ac.uk/portal/en/publications/international-conventions-and-nonstate-actors(2de15d5d-1454-444f-8792-fd8bd24c46a7).html",
+      "version": "e85685ef343261074a99501ca820b753abd463bd",
+      "title": {
+        "value": "International conventions and nonstate actors"
+      },
+      "subTitle": {
+        "value": "selection, signaling, and reputation effects"
+      },
+      "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+          "en_GB": "Article"
+        }
+      },
+      "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/research",
+        "term": {
+          "en_GB": "Research"
+        }
+      },
+      "peerReview": true,
+      "publicationStatuses": [
+        {
+          "pureId": 13511650,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/inpress",
+            "term": {
+              "en_GB": "Accepted/In press"
+            }
+          },
+          "publicationDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 1
+          }
+        },
+        {
+          "pureId": 13511651,
+          "current": false,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/epub",
+            "term": {
+              "en_GB": "E-pub ahead of print"
+            }
+          },
+          "publicationDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 7
+          }
+        },
+        {
+          "pureId": 13511652,
+          "current": true,
+          "publicationStatus": {
+            "uri": "/dk/atira/pure/researchoutput/status/published",
+            "term": {
+              "en_GB": "Published"
+            }
+          },
+          "publicationDate": {
+            "year": 2018,
+            "month": 2,
+            "day": 1
+          }
+        }
+      ],
+      "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+          "en_GB": "English"
+        }
+      },
+      "contributors": [
+        {
+          "typeDiscriminator": "ExternalContributorAssociation",
+          "pureId": 13511646,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Kristian Skrede",
+            "lastName": "Gleditsch"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "externalPerson": {
+            "systemName": "ExternalPerson",
+            "uuid": "af9f54f9-0109-4c4b-ae59-a8786a180875"
+          }
+        },
+        {
+          "typeDiscriminator": "ExternalContributorAssociation",
+          "pureId": 13511647,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Simon",
+            "lastName": "Hug"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "externalPerson": {
+            "systemName": "ExternalPerson",
+            "uuid": "a005179a-a29f-459b-afdb-2bafceb765a5"
+          }
+        },
+        {
+          "typeDiscriminator": "InternalContributorAssociation",
+          "pureId": 13511648,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Livia Isabella",
+            "lastName": "Schubiger"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "person": {
+            "systemName": "Person",
+            "uuid": "7c31d29b-9687-4d5a-891d-3241b9f4d14a"
+          }
+        },
+        {
+          "typeDiscriminator": "ExternalContributorAssociation",
+          "pureId": 13511649,
+          "hidden": false,
+          "correspondingAuthor": false,
+          "name": {
+            "firstName": "Julian",
+            "lastName": "Wucherpfennig"
+          },
+          "role": {
+            "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+            "term": {
+              "en_GB": "Author"
+            }
+          },
+          "externalPerson": {
+            "systemName": "ExternalPerson",
+            "uuid": "3fc908ad-41c7-4c95-b05a-90743c16b256"
+          }
+        }
+      ],
+      "organizations": [
+        {
+          "systemName": "Organization",
+          "uuid": "72f1489a-2558-49d1-b56d-4720d53f057a"
+        }
+      ],
+      "totalNumberOfContributors": 4,
+      "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "72f1489a-2558-49d1-b56d-4720d53f057a"
+      },
+      "electronicVersions": [
+        {
+          "typeDiscriminator": "FileElectronicVersion",
+          "pureId": 13511638,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/open",
+            "term": {
+              "en_GB": "Open"
+            }
+          },
+          "visibleOnPortalDate": "2019-01-23",
+          "creator": "root",
+          "created": "2019-01-23T19:30:24Z",
+          "title": "Schubiger_International conventions.pdf",
+          "file": {
+            "pureId": 13511639,
+            "fileId": "Y2UyYmQ3",
+            "fileName": "Schubiger_International conventions.pdf",
+            "mimeType": "application/pdf",
+            "size": 0,
+            "url": "http://cris.lse.ac.uk/ws/api/research-outputs/2de15d5d-1454-444f-8792-fd8bd24c46a7/files/Y2UyYmQ3/Schubiger_International%2520conventions.pdf"
+          },
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/authorsversion",
+            "term": {
+              "en_GB": "Accepted author manuscript"
+            }
+          }
+        },
+        {
+          "typeDiscriminator": "DoiElectronicVersion",
+          "pureId": 13511640,
+          "accessType": {
+            "uri": "/dk/atira/pure/core/openaccesspermission/unknown",
+            "term": {
+              "en_GB": "Unknown"
+            }
+          },
+          "doi": "10.1177/0022002716650924",
+          "versionType": {
+            "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+            "term": {
+              "en_GB": "Final published version"
+            }
+          }
+        }
+      ],
+      "links": [
+        {
+          "pureId": 13511644,
+          "url": "http://jcr.sagepub.com/",
+          "linkType": {
+            "uri": "/dk/atira/pure/links/researchoutput/officialurl",
+            "term": {
+              "en_GB": "Official URL"
+            }
+          }
+        }
+      ],
+      "keywordGroups": [
+        {
+          "typeDiscriminator": "ClassificationsKeywordGroup",
+          "pureId": 13511641,
+          "logicalName": "librarianKeywordContainers",
+          "name": {
+            "en_GB": "Library Keywords"
+          },
+          "classifications": [
+            {
+              "uri": "/dk/atira/pure/core/keywords/J/JF",
+              "term": {
+                "en_GB": "JF Political institutions (General)"
+              }
+            },
+            {
+              "uri": "/dk/atira/pure/core/keywords/J/JZ",
+              "term": {
+                "en_GB": "JZ International relations"
+              }
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "FreeKeywordsKeywordGroup",
+          "pureId": 24629118,
+          "logicalName": "keywordContainers",
+          "name": {
+            "en_GB": "Keywords"
+          },
+          "keywords": [
+            {
+              "pureId": 24629120,
+              "locale": "en_GB",
+              "freeKeywords": [
+                "civil wars",
+                "civilian casualties",
+                "human rights",
+                "international treaties"
+              ]
+            }
+          ]
+        },
+        {
+          "typeDiscriminator": "FullKeywordGroup",
+          "pureId": 15217791,
+          "logicalName": "dk/atira/pure/keywords/Funding_Organisation",
+          "name": {
+            "en_GB": "Funder & Reference"
+          },
+          "keywordContainers": [
+            {
+              "pureId": 15217792,
+              "structuredKeyword": {
+                "uri": "dk/atira/pure/keywords/Funding_Organisation/1205",
+                "term": {
+                  "en_GB": "Universitat Zurich (University of Zurich)"
+                }
+              }
+            },
+            {
+              "pureId": 15217793,
+              "structuredKeyword": {
+                "uri": "dk/atira/pure/keywords/Funding_Organisation/622",
+                "term": {
+                  "en_GB": "Swiss National Science Foundation"
+                }
+              }
+            },
+            {
+              "pureId": 15217794,
+              "structuredKeyword": {
+                "uri": "dk/atira/pure/keywords/Funding_Organisation/481",
+                "term": {
+                  "en_GB": "Research Council of Norway"
+                }
+              }
+            },
+            {
+              "pureId": 15217795,
+              "structuredKeyword": {
+                "uri": "dk/atira/pure/keywords/Funding_Organisation/1259",
+                "term": {
+                  "en_GB": "European Research Council"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "bibliographicalNote": {
+        "en_GB": "© 2016 The Authors"
+      },
+      "visibility": {
+        "key": "FREE",
+        "description": {
+          "en_GB": "Public - No restriction"
+        }
+      },
+      "workflow": {
+        "step": "approved",
+        "description": {
+          "en_GB": "Validated"
+        }
+      },
+      "identifiers": [
+        {
+          "typeDiscriminator": "PrimaryId",
+          "idSource": "researchoutputwizard",
+          "value": "66556"
+        },
+        {
+          "typeDiscriminator": "Id",
+          "pureId": 15224603,
+          "idSource": "Scopus",
+          "value": "85040831837"
+        }
+      ],
+      "customDefinedFields": {
+        "researchoutput_string_invoice_number": {
+          "typeDiscriminator": "String"
+        },
+        "researchoutput_classification_debit_credit": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_charge_type": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_supplier": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_date_invoice_date": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_date_date_invoice_paid": {
+          "typeDiscriminator": "Date"
+        },
+        "researchoutput_classification_budget": {
+          "typeDiscriminator": "Classification"
+        },
+        "researchoutput_classification_open_access_type": {
+          "typeDiscriminator": "Classification"
+        }
+      },
+      "pages": "346 - 380",
+      "volume": "62",
+      "journalAssociation": {
+        "pureId": 13511637,
+        "title": {
+          "pureId": 14614004,
+          "title": "Journal of Conflict Resolution"
+        },
+        "issn": {
+          "pureId": 27484442,
+          "issn": "0022-0027"
+        },
+        "journal": {
+          "systemName": "Journal",
+          "uuid": "7b2b799f-7ae6-4fe4-93ca-bf7fa8652d4a"
+        }
+      },
+      "journalNumber": "2",
+      "abstract": {
+        "en_GB": "Whether international humanitarian norms are respected during and after civil conflict depends on the behavior of both governments and nonstate actors (NSAs). However, international conventions on the protection of civilians generally do not address NSAs, as such conventions are open only to the representatives of states. In a pioneering initiative, the nongovernmental organization Geneva Call has started to address this problem by soliciting NSAs to sign “deeds of commitment” to ban particular activities violating humanitarian norms. Focusing on the case of antipersonnel mines, we examine why NSAs would choose to sign conventions that limit their autonomy, and whether such conventions can change the behavior of governments and nonstate armed groups. We propose a game-theoretic model of how the interaction between governments and NSAs shape their incentives to commit to and comply with international humanitarian norms. Our empirical evidence highlights the importance of these interdependencies between governments and NSAs in the realm of humanitarian engagements."
+      },
+      "systemName": "ResearchOutput"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[{
+  "firstname": "John",
+  "lastname": "Doe",
+  "age": 25,
+  "home_town": "London"
+},
+  {
+    "firstname": "Jane",
+    "lastname": "Doe",
+    "age": 22,
+    "home_town": "New York"
+  },
+  {
+    "firstname": "Jean",
+    "lastname": "Dupont",
+    "age": 30,
+    "home_town": "Paris"
+  },
+  {
+    "firstname": "Max",
+    "lastname": "Mustermann",
+    "age": 28,
+    "home_town": "Berlin"},
+  {
+    "firstname": "Otto",
+    "lastname": "Normalverbraucher",
+    "age": 35,
+    "home_town": "Hamburg"},
+  {
+    "firstname": "Jón",
+    "lastname": "Jónsson",
+    "age": 40,
+    "home_town": "Rejkjavik"
+  },
+  {
+    "firstname": "Numerius",
+    "lastname": "Negidius",
+    "age": 12,
+    "home_town": "Rome"
+  },
+  {
+    "firstname": "Anna",
+    "lastname": "Kowalska",
+    "age": 50,
+    "home_town": "Warsaw"
+  },
+  {
+    "firstname": "Vardenis",
+    "lastname": "Pavardenis",
+    "age": 26,
+    "home_town": "Vilnius"
+  },
+  {
+    "firstname": "Jens",
+    "lastname": "Jensen",
+    "age": 34,
+    "home_town": "Copenhagen"
+  }]
